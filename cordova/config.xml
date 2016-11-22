@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="swhy-tabris" version="0.1.0">
+  <name>Swhy Tabris</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="sholloway@scriberule.com">
+    Shane Holloway
+  </author>
+
+  <plugin name="cordova-plugin-camera" spec="1.2.0" />
+  <plugin name="cordova-plugin-dialogs" spec="1.1.1" />
+</widget>

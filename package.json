@@ -1,5 +1,5 @@
 {
-  "name": "com.shaneholloway.sandbox.swhy_tabris",
+  "name": "sandbox.swhy_tabris",
   "version": "0.1.0",
   "main": "dist/app.js",
   "private": true,
